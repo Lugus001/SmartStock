@@ -1,0 +1,9 @@
+{
+    "appId": "smartstock-tjlpjyh",
+    "appUrl": "https://services.cloud.mongodb.com/groups/65b97fa9537bd40792be1c92/apps/664e802b9e65523476353ac0",
+    "baseUrl": "https://services.cloud.mongodb.com",
+    "clientApiBaseUrl": "https://ap-southeast-1.aws.services.cloud.mongodb.com",
+    "dataApiBaseUrl": "https://ap-southeast-1.aws.data.mongodb-api.com",
+    "dataExplorerLink": "https://cloud.mongodb.com/links/65b97fa9537bd40792be1c92/explorer/Cluster0/database/collection/find",
+    "dataSourceName": "mongodb-atlas"
+}
